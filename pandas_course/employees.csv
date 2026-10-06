@@ -1,0 +1,11 @@
+emp_id,name,department,salary,years,city
+1,Asha,Sales,52000,3,Austin
+2,Bikram,IT,"",6,Denver
+3,Chitra,HR,48000,2,Austin
+4,Deepak,IT,"",9,Seattle
+5,Esha,Sales,56000,4,Denver
+6,Farid,IT,35000,3,Austin
+7,Gita,HR,51000,5,Seattle
+8,Hari,Sales,100000,7,Austin
+9,Isha,IT,83000,8,Denver
+10,Jay,Sales,45000,1,Seattle
