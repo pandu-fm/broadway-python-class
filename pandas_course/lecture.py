@@ -93,5 +93,5 @@ age = pd.Series([25, 30, 28, 35])
 user_data = pd.DataFrame(
     {"name": name, "age": age}
     )
-print(user_data.head(2))  # Show first 2 rows
+print(user_data.head(10))  # Show first 2 rows
 
